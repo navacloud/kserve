@@ -107,7 +107,7 @@ extra-index-url = ["https://pypi.org/simple"]
 index-strategy = "unsafe-best-match"
 
 [build-system]
-requires = ["setuptools>=61.0"]
+requires = ["setuptools>=83.0.0"]
 build-backend = "setuptools.build_meta"
 
 # UV workspace source for local dependency resolution
